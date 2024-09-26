@@ -1,0 +1,6 @@
+var titulo = document.queryselector(".titulo"); titulo.textContent = "Luca Nutrição";
+var paciente = document.queryselector("#primeiro paciente");
+var tdpeso = paciente.queryselector(".info-peso");
+var peso = tdpeso.textContent;
+var tdaltura = paciente.queryselector("info-altura");
+var altura = tdaltura.textContent;
